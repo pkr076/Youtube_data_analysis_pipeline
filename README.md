@@ -41,3 +41,5 @@ To analyze the data, the following tasks were performed:
 - **AWS Glue:** For ETL processes and data catalog creation.
 
 - **AWS Athena:** For querying the data from S3.
+
+- **Terraform:** For provisioning the required AWS infrastructure using Infrastructure as code (IaC)
